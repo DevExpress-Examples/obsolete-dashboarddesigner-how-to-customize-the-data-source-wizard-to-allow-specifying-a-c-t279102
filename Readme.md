@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataSourceWizardCustomization.cs](./CS/WizardCustomizationNamePage/DataSourceWizardCustomization.cs) (VB: [DataSourceWizardCustomization.vb](./VB/WizardCustomizationNamePage/DataSourceWizardCustomization.vb))
+* [Form1.cs](./CS/WizardCustomizationNamePage/Form1.cs) (VB: [Form1.vb](./VB/WizardCustomizationNamePage/Form1.vb))
+* [Program.cs](./CS/WizardCustomizationNamePage/Program.cs) (VB: [Program.vb](./VB/WizardCustomizationNamePage/Program.vb))
+<!-- default file list end -->
 # (OBSOLETE) DashboardDesigner - How to customize the data source wizard to allow specifying a custom data source name
 
 
